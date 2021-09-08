@@ -1,11 +1,11 @@
 # assignment2-pathuri
 
 # Varun Reddy Pathuri
-###### My Favourite location is Hyderabad in India
+### My Favourite location is Hyderabad in India
 
 **Hyderabad** is rich in Heritage and culture. It has amazing places to see and great restaurents to eat like the world famous __Paradise Biryani__. I love this city beacuse I had studied in this city and spent those years full of joy.
 
-###### Directions to travel to Hyderabad
+### Directions to travel to Hyderabad
 
 1. Drive from Maryville to Kansas city Airport.
 2. Take a flight from Kansas city to Chicago.
@@ -13,7 +13,7 @@
    1. Onboard a domestic flight from Delhi to Hyderabad Airport.
    2. Book  a cab from Hyderabad airport to Hyderabad City.
 
-###### Items to carry for the trip
+### Items to carry for the trip
 * Clothes
   * T-shirts
   * Shirts
@@ -30,7 +30,7 @@
 
 ---
 
-###### Delicious Items to try in Hyderabad
+### Delicious Items to try in Hyderabad
 
 I recommend to try these Food items which are listed below
 
@@ -43,5 +43,11 @@ I recommend to try these Food items which are listed below
 
 ---
 
-###### 
+### Plithy Quotes
+
+> "No problem can be solved from the same level of consciousness that created it" - *Albert Einstein*<Br>
+> "All that glitters is not gold" -*William Shakespeare*
+
+---
+
 
