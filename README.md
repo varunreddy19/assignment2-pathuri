@@ -27,3 +27,21 @@
 
 
 **[About Me](AboutMe.md)**
+
+---
+
+###### Delicious Items to try in Hyderabad
+
+I recommend to try these Food items which are listed below
+
+| Food/Drink Item | Location | Expected Price |
+| --- | --- | --- |
+| Chicken Biryani | Bawarchi | Rs 350 |
+| Mutton Biryani | Shah Ghose | Rs 550 |
+| Paneer Butter Dosa | Gachibowli | Rs 150 |
+| Apricot Delight | spicy venue | Rs 200 |
+
+---
+
+###### 
+
