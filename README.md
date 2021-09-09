@@ -76,5 +76,5 @@ pair<int, int> fib (int n) {
 }
 
 ```
-[Code Source](https://cp-algorithms.com/algebra/fibonacci-numbers.html)b
+[Code Source](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 
